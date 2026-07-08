@@ -27,12 +27,3 @@ The dataset is heavily imbalanced by sex — 724 male patients vs 193 female. Be
 ## Tech stack
 
 Python, pandas, scikit-learn (KNeighborsClassifier, GridSearchCV, MinMaxScaler), seaborn, matplotlib.
-
-## How to run
-
-1. Install dependencies:
-   ```
-   pip install pandas scikit-learn seaborn matplotlib
-   ```
-2. Place `heart_disease_prediction.csv` in the working directory (Kaggle Heart Failure Prediction dataset).
-3. Open the notebook and run the cells top to bottom.
